@@ -1,0 +1,9 @@
+[submodule "parallel-classifier"]
+	path = parallel-classifier
+	url = git@github.com:zhpinkman/parallel-classifier.git
+[submodule "file-sharing-system-using-socket-programming"]
+	path = file-sharing-system-using-socket-programming
+	url = git@github.com:zhpinkman/file-sharing-system-using-socket-programming.git
+[submodule "load-balancing-using-semaphores"]
+	path = load-balancing-using-semaphores
+	url = git@github.com:zhpinkman/load-balancing-using-semaphores.git
