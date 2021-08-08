@@ -7,3 +7,6 @@
 [submodule "load-balancing-using-semaphores"]
 	path = load-balancing-using-semaphores
 	url = git@github.com:zhpinkman/load-balancing-using-semaphores.git
+[submodule "xv6"]
+	path = xv6
+	url = https://github.com/zhpinkman/xv6
